@@ -121,7 +121,6 @@ $ grossProfit(grossIncome) = total(gross_sales) - COGS $
 
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
-<u>**Example with the first row in our DB:**</u>
 
 ## Code
 
